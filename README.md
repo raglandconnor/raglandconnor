@@ -1,5 +1,5 @@
-## Hi, I'm Connor Ragland 👋
+## Hi, I'm Connor Ragland 
 ### I'm a sophomore studying Computer Science at the University of Florida
 
-- 🌱 I’m currently learning computational linear algebra, data structures and algorithms, and computer organization
-- 📫 Reach me at raglandconnor@ufl.edu
+- I’m currently learning computational linear algebra, data structures and algorithms, and computer organization
+
